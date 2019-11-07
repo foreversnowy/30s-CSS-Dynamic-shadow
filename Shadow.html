@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Shadow</title>
+    <style>
+        .shadow {
+            position: relative;
+            width: 200px;
+            height: 200px;
+            background: linear-gradient(75deg, #18dcff, #c56cf0);
+        }
+
+        .shadow::after {
+            position: absolute;
+            content: '';
+            width: 100%;
+            height: 100%;
+            top: 4px;
+            left: 3px;
+            /* 背景颜色继承 */
+            background: inherit;
+            /* 模糊 */
+            filter: blur(0.4rem);
+            /* 透明度 */
+            opacity: 0.7;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="shadow"></div>
+</body>
+
+</html>
