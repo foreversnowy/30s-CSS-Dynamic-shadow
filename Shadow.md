@@ -43,7 +43,8 @@
         opacity: 0.7;
     }
 ```
-![未加阴影前](https://forever-1258828479.cos.ap-beijing.myqcloud.com/myblog/page/shadow/2.png)
+![未加阴影前](https://forever-1258828479.cos.ap-beijing.myqcloud.com/myblog/page/shadow/2.png)  
+
 是不是感觉生动了许多呢?  
 
 > [项目地址](https://github.com/foreversnowy/Shadow)
