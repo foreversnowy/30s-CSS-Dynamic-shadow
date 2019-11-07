@@ -1,9 +1,3 @@
----
-title: 30秒的CSS - 动态阴影
-date: 2019-10-31
-tags: 
-cover: https://forever-1258828479.cos.ap-beijing.myqcloud.com/myblog/img/cover004.jpg
----
   
 **30秒的CSS - 动态阴影**
 
@@ -58,6 +52,6 @@ cover: https://forever-1258828479.cos.ap-beijing.myqcloud.com/myblog/img/cover00
 
 **相关资料**
 
->[CSS3 linear-gradient](https://www.runoob.com/cssref/func-linear-gradient.html)
->[CSS3 filter](https://www.runoob.com/cssref/css3-pr-filter.html)
+>[CSS3 linear-gradient](https://www.runoob.com/cssref/func-linear-gradient.html)  
+>[CSS3 filter](https://www.runoob.com/cssref/css3-pr-filter.html)  
 >[CSS3 opacity](https://www.w3school.com.cn/cssref/pr_opacity.asp)
