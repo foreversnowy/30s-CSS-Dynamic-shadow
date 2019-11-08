@@ -47,7 +47,7 @@
 
 是不是感觉生动了许多呢?  
 
-> [项目地址](https://github.com/foreversnowy/Shadow)
+> [项目地址](https://github.com/foreversnowy/30s-CSS-Dynamic-shadow)
 
 ***
 <br>
